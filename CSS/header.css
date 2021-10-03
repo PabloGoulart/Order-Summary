@@ -1,0 +1,12 @@
+header {
+    height: 220px;
+    background-image: url("../img/illustration-hero.svg");
+}
+
+
+@media screen and (max-width: 1000px) {
+    header {
+        height: 160px;
+        background-size: cover;
+    }
+}

@@ -1,0 +1,47 @@
+.section-purchase {
+    grid-column: 1 / 1;
+    grid-row: 2 / 2;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.purchase-conteiner {
+    width: 70%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+}
+
+.purchase-conteiner a {
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+}
+
+.purchase-conteiner a:active {
+    color: hsl(246, 54%, 65%);
+}
+
+.plan-info {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.plan-info h2 {
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1000px) { 
+    .purchase-conteiner {
+        width: 80%;
+        justify-content: space-around;
+    }
+        
+    .plan-info {
+        width: auto;
+}
+}
