@@ -4,9 +4,23 @@ header {
 }
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 0px) {
     header {
         height: 160px;
+        background-size: cover;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    header {
+        height: 360px;
+        background-size: cover;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    header {
+        height: 220px;
         background-size: cover;
     }
 }
