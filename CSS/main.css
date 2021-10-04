@@ -27,7 +27,7 @@ main {
     }
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (max-width: 540px) {
     .main-conteiner {
         width: 65%;
     }
