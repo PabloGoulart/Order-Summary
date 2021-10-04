@@ -11,3 +11,7 @@ https://pablogoulart.github.io/Order-Summary/
 
 ## Layout web
 ![Web 1](https://github.com/PabloGoulart/Order-Summary/blob/master/assets/image-1.png)
+
+# Tecnologias usadas
+- HTML5
+- CSS3 / CSS Grid / Flexbox
