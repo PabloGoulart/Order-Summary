@@ -15,3 +15,8 @@ https://pablogoulart.github.io/Order-Summary/
 # Tecnologias usadas
 - HTML5
 - CSS3 / CSS Grid / Flexbox
+
+# Autor
+Pablo Goulart
+
+https://www.linkedin.com/in/pablo-goulart-3524161b1/
