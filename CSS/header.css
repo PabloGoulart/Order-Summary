@@ -3,7 +3,6 @@ header {
     background-image: url("../img/illustration-hero.svg");
 }
 
-
 @media screen and (min-width: 0px) {
     header {
         height: 160px;
