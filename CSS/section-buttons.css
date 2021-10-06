@@ -30,8 +30,6 @@
     background-color: hsl(245, 83%, 68%);
 }
 
-
-
 @media screen and (max-width: 1000px) {
     .button {
         width: 80%;
